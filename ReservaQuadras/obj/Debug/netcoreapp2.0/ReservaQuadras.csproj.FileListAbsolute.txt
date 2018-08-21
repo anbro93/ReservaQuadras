@@ -1,0 +1,11 @@
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.0\ReservaQuadras.deps.json
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.0\ReservaQuadras.runtimeconfig.json
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.0\ReservaQuadras.runtimeconfig.dev.json
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.0\ReservaQuadras.dll
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.0\ReservaQuadras.pdb
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.0\ReservaQuadras.csprojAssemblyReference.cache
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.0\ReservaQuadras.csproj.CoreCompileInputs.cache
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.0\ReservaQuadras.AssemblyInfoInputs.cache
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.0\ReservaQuadras.AssemblyInfo.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.0\ReservaQuadras.dll
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.0\ReservaQuadras.pdb
