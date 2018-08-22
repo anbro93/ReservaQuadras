@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ReservaQuadras.Models.Validators;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -20,6 +21,7 @@ namespace ReservaQuadras.Models
 
         [Required]
         [Display(Name = "Hora de Inicio")]
+        [TimeRangeValidation]
         public TimeSpan HoraInicio { get; set; }
 
         [Required]

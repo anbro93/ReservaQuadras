@@ -68,7 +68,7 @@ using ReservaQuadras.Models;
             WriteLiteral("\r\n<h2>Index</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(175, 43, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e998d56aabcd44c58dc4ad2e973bbf19", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cb031af5deee43208e471554b123cd14", async() => {
                 BeginContext(198, 16, true);
                 WriteLiteral("Cadastrar Espaço");
                 EndContext();
@@ -138,7 +138,7 @@ using ReservaQuadras.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(815, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ffa2b7f9b9544ae837acc0dcaffbc69", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "308c83b5f7984c2bac578dc0cfbd4790", async() => {
                 BeginContext(899, 8, true);
                 WriteLiteral("Horarios");
                 EndContext();
@@ -175,7 +175,7 @@ using ReservaQuadras.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(931, 67, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63de96c311484e548207ca6f016f0dd4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea4f75b81c43450c98a87015abe38423", async() => {
                 BeginContext(988, 6, true);
                 WriteLiteral("Editar");
                 EndContext();
@@ -210,7 +210,7 @@ using ReservaQuadras.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(1018, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3b49ebde3cab49fe8799a0ee830d7819", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7fa3fbc101e6417b859ecaeffc550002", async() => {
                 BeginContext(1077, 6, true);
                 WriteLiteral("Delete");
                 EndContext();

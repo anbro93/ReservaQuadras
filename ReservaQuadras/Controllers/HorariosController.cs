@@ -78,8 +78,10 @@ namespace ReservaQuadras.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index), new { id = horario.EspacoFisicoID });
             }
-            ViewData["DiaID"] = new SelectList(_context.DiaDaSemana, "DiaDaSemanaID", "DiaDaSemanaID", horario.DiaID);
+            ViewData["DiaID"] = new SelectList(_context.DiaDaSemana, "DiaDaSemanaID", "Dia", horario.DiaID);
             ViewData["EspacoFisicoID"] = horario.EspacoFisicoID;
+            ViewBag.HorariosInicio = new SelectList(HorasDoDia(), "Key", "Value");
+            ViewBag.HorariosFim = new SelectList(HorasDoDia(), "Key", "Value");
             return View(horario);
         }
 
@@ -98,6 +100,9 @@ namespace ReservaQuadras.Controllers
             }
             ViewData["DiaID"] = new SelectList(_context.DiaDaSemana, "DiaDaSemanaID", "DiaDaSemanaID", horario.DiaID);
             ViewData["EspacoFisicoID"] = new SelectList(_context.EspacoFisico, "EspacoFisicoID", "Nome", horario.EspacoFisicoID);
+            ViewBag.HorariosInicio = new SelectList(HorasDoDia(), "Key", "Value");
+            ViewBag.HorariosFim = new SelectList(HorasDoDia(), "Key", "Value");
+
             return View(horario);
         }
 
