@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ReservaQuadras.Models.PessoaAtletica>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create" asp-route-id="@ViewBag.PessoaID">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Atletica)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Atletica.Nome)
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.PessoaAtleticaID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <a asp-action="Index" asp-controller="Pessoas">Retornar à lista de pessoas</a>
+</p>

@@ -1,0 +1,31 @@
+﻿@model ReservaQuadras.Models.PessoaProjeto
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PessoaProjeto</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pessoa)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pessoa.CPF)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Projeto)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Projeto.Nome)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.PessoaProjetoID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

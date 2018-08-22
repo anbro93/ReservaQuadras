@@ -26,5 +26,7 @@ namespace ReservaQuadras.Models
 
         public virtual ICollection<PessoaAtletica> PessoaAtletica { get; set; }
 
+        public virtual ICollection<PessoaProjeto> PessoaProjeto { get; set; }
+
     }
 }
