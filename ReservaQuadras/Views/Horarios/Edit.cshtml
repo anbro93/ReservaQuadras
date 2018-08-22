@@ -1,0 +1,50 @@
+﻿@model ReservaQuadras.Models.Horario
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+<h4>Horario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="HorarioID" />
+            <div class="form-group">
+                <label asp-for="DiaID" class="control-label"></label>
+                <select asp-for="DiaID" class="form-control" asp-items="ViewBag.DiaID"></select>
+                <span asp-validation-for="DiaID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EspacoFisicoID" class="control-label"></label>
+                <select asp-for="EspacoFisicoID" class="form-control" asp-items="ViewBag.EspacoFisicoID"></select>
+                <span asp-validation-for="EspacoFisicoID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraInicio" class="control-label"></label>
+                <input asp-for="HoraInicio" class="form-control" />
+                <span asp-validation-for="HoraInicio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraFim" class="control-label"></label>
+                <input asp-for="HoraFim" class="form-control" />
+                <span asp-validation-for="HoraFim" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

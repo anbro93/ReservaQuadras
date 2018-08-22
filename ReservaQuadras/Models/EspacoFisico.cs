@@ -16,7 +16,10 @@ namespace ReservaQuadras.Models
         public string Nome { get; set; }
 
         [DefaultValue("true")]
+        [Display(Name = "Liberado")]
         public Boolean IsLiberado { get; set; }
+
+        public virtual ICollection<Horario> Horarios { get; set; }
 
     }
 }
