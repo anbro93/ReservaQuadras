@@ -6,11 +6,6 @@ namespace ReservaQuadras.Models
     public class Pessoa
     {
 
-        public Pessoa()
-        {
-            this.Atleticas = new HashSet<Atletica>();
-        }
-
         public int PessoaID { get; set; }
 
         [Required]
@@ -29,7 +24,7 @@ namespace ReservaQuadras.Models
         [Display(Name = "E-Mail")]
         public string Email { get; set; }
 
-        public virtual ICollection<Atletica> Atleticas { get; set; }
+        public virtual ICollection<PessoaAtletica> PessoaAtletica { get; set; }
 
     }
 }
