@@ -153,5 +153,12 @@ namespace ReservaQuadras.Controllers
         {
             return _context.Pessoas.Any(e => e.PessoaID == id);
         }
+
+        public async Task<ActionResult> Buscar(string query)
+        {
+            var resultado = _context.Pessoas.Where(p => p.Nome.ToLower().Contains(query.ToLower())
+                                                        || p.CPF.Contains(query)).ToList();
+            return PartialView("_ResultadosBuscaPessoa", resultado);
+        }
     }
 }

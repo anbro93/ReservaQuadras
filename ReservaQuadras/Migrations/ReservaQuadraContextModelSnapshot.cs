@@ -86,11 +86,15 @@ namespace ReservaQuadras.Migrations
 
                     b.Property<TimeSpan>("HoraInicio");
 
+                    b.Property<int?>("ReservaID");
+
                     b.HasKey("HorarioID");
 
                     b.HasIndex("DiaID");
 
                     b.HasIndex("EspacoFisicoID");
+
+                    b.HasIndex("ReservaID");
 
                     b.ToTable("Horario");
                 });
@@ -170,6 +174,50 @@ namespace ReservaQuadras.Migrations
                     b.ToTable("Projeto");
                 });
 
+            modelBuilder.Entity("ReservaQuadras.Models.Reserva", b =>
+                {
+                    b.Property<int>("ReservaID")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<DateTime>("Data");
+
+                    b.Property<string>("Descricao");
+
+                    b.Property<int>("PessoaID");
+
+                    b.Property<int>("TipoID");
+
+                    b.HasKey("ReservaID");
+
+                    b.HasIndex("PessoaID");
+
+                    b.HasIndex("TipoID");
+
+                    b.ToTable("Reserva");
+                });
+
+            modelBuilder.Entity("ReservaQuadras.Models.TipoReserva", b =>
+                {
+                    b.Property<int>("TipoReservaID")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<float?>("MaxHoras");
+
+                    b.Property<string>("Nome");
+
+                    b.HasKey("TipoReservaID");
+
+                    b.ToTable("TipoReserva");
+
+                    b.HasData(
+                        new { TipoReservaID = 1, MaxHoras = 2f, Nome = "Comunidade" },
+                        new { TipoReservaID = 2, MaxHoras = 10f, Nome = "Atlética" },
+                        new { TipoReservaID = 3, Nome = "Projeto" }
+                    );
+                });
+
             modelBuilder.Entity("ReservaQuadras.Models.Horario", b =>
                 {
                     b.HasOne("ReservaQuadras.Models.DiaDaSemana", "Dia")
@@ -181,6 +229,10 @@ namespace ReservaQuadras.Migrations
                         .WithMany("Horarios")
                         .HasForeignKey("EspacoFisicoID")
                         .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("ReservaQuadras.Models.Reserva")
+                        .WithMany("Horarios")
+                        .HasForeignKey("ReservaID");
                 });
 
             modelBuilder.Entity("ReservaQuadras.Models.PessoaAtletica", b =>
@@ -206,6 +258,19 @@ namespace ReservaQuadras.Migrations
                     b.HasOne("ReservaQuadras.Models.Projeto", "Projeto")
                         .WithMany("PessoaProjeto")
                         .HasForeignKey("ProjetoID")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("ReservaQuadras.Models.Reserva", b =>
+                {
+                    b.HasOne("ReservaQuadras.Models.Pessoa", "Pessoa")
+                        .WithMany()
+                        .HasForeignKey("PessoaID")
+                        .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("ReservaQuadras.Models.TipoReserva", "Tipo")
+                        .WithMany()
+                        .HasForeignKey("TipoID")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618

@@ -1,3 +1,72 @@
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorAssemblyInfo.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorAssemblyInfo.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.AssemblyInfoInputs.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.AssemblyInfo.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.TagHelpers.input.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.TagHelpers.output.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorCoreGenerate.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaProjetoes\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaProjetoes\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaProjetoes\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaProjetoes\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaProjetoes\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Delete.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Details.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Edit.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorTargetAssemblyInfo.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorTargetAssemblyInfo.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.dll
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.pdb
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.deps.json
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.runtimeconfig.json
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.runtimeconfig.dev.json
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.dll
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.pdb
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.Views.dll
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.Views.pdb
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.csprojAssemblyReference.cache
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.Views.pdb
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.csproj.CopyComplete
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Index.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Create.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\_BuscarPessoa.g.cshtml.cs
+C:\Users\Fábio Alves\projetos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\_ResultadosBuscaPessoa.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.deps.json
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.runtimeconfig.json
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.runtimeconfig.dev.json
@@ -5,7 +74,6 @@ C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.pdb
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.Views.dll
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\bin\Debug\netcoreapp2.1\ReservaQuadras.Views.pdb
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.csprojAssemblyReference.cache
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.csproj.CoreCompileInputs.cache
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorAssemblyInfo.cache
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.RazorAssemblyInfo.cs
@@ -19,9 +87,19 @@ C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Details.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Edit.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Atleticas\Index.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Create.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Delete.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Details.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Edit.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Index.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Create.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Delete.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Details.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Edit.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Index.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Create.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Delete.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\PessoaAtleticas\Details.g.cshtml.cs
@@ -37,11 +115,15 @@ C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Details.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Edit.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\Index.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\_BuscarPessoa.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Pessoas\_ResultadosBuscaPessoa.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Create.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Delete.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Details.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Edit.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Projetoes\Index.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Create.g.cshtml.cs
+C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Index.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
@@ -53,13 +135,3 @@ C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.dll
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.pdb
 C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\ReservaQuadras.csproj.CopyComplete
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Create.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Delete.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Details.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Edit.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\EspacoFisicoes\Index.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Create.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Delete.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Details.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Edit.g.cshtml.cs
-C:\Users\Adriano\source\repos\ReservaQuadras\ReservaQuadras\obj\Debug\netcoreapp2.1\Razor\Views\Horarios\Index.g.cshtml.cs
