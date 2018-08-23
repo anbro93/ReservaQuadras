@@ -1,0 +1,8 @@
+﻿@model ReservaQuadras.Models.ViewModels.BuscarPessoaViewModel
+
+<div id="buscar-pessoas">
+    <label>Buscar Pessoa:</label>
+    @Html.TextBoxFor(m => m.TextoBusca, new { id = "txtBusca" })
+
+    <input type="button" id="btnBuscar" value="Buscar" />
+</div>

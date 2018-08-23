@@ -1,0 +1,27 @@
+﻿@model List<ReservaQuadras.Models.Pessoa>
+@if (Model.Count == 0)
+{
+    <h3 class="text-error">No items matched your search query!</h3>
+}
+else
+{
+    <table>
+        <thead>
+        <th>Nome</th>
+        <th>CPF</th>
+        <th></th>
+        </thead>
+    
+    @foreach (var result in Model)
+    {
+        <tr>
+            <td>@result.Nome</td>
+            <td>@result.CPF</td>
+            <td>
+                <a href="#" id="asd" class="btnSelecionar">ASD</a>
+                <input type="button" id="@result.PessoaID" class="btnSelecionar" value="Selecionar">
+            </td>
+        </tr>
+    }
+    </table>
+}

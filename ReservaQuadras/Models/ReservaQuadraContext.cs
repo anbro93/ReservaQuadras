@@ -22,6 +22,12 @@ namespace ReservaQuadras.Models
                 new DiaDaSemana { DiaDaSemanaID = 6, Dia = "Sábado" },
                 new DiaDaSemana { DiaDaSemanaID = 7, Dia = "Domingo" }
                 );
+
+            modelBuilder.Entity<TipoReserva>().HasData(
+                new TipoReserva { TipoReservaID = 1, MaxHoras = 2, Nome = "Comunidade" },
+                new TipoReserva { TipoReservaID = 2, MaxHoras = 10, Nome = "Atlética" },
+                new TipoReserva { TipoReservaID = 3, Nome = "Projeto" }
+                );
         }
 
         public DbSet<Pessoa> Pessoas { get; set; }
@@ -32,6 +38,8 @@ namespace ReservaQuadras.Models
         public DbSet<DiaDaSemana> DiaDaSemana { get; set; }
         public DbSet<Horario> Horario { get; set; }
         public DbSet<EspacoFisico> EspacoFisico { get; set; }
+        public DbSet<TipoReserva> TipoReserva { get; set; }
+        public DbSet<Reserva> Reserva { get; set; }
 
     }
 }
